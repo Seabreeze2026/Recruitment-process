@@ -1,4 +1,4 @@
-// Apps Script "Web app" ünvanını bura yazın (Deploy → Web app → URL)
+// Apps Script "Web app" ünvanı (Deploy → Web app → URL)
 window.APP_CONFIG = {
-  API_URL: 'BURAYA_APPS_SCRIPT_WEB_APP_URL_YAZIN'
+  API_URL: 'https://script.google.com/macros/s/AKfycbyNde-gIOQnX1VTtygO2NjYnekmaBTdGjzBrJhDIXPC7BD-bqEqIUY7ZcFtbeWResBT6Q/exec'
 };
